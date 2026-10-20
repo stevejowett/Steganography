@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+*.ffmpeg.log
+.stego_*.mkv
+.pytest_cache/
